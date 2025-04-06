@@ -107,4 +107,5 @@ While the prediction is being generated, the user is presented with a loading sp
 The front-end application is developed using React, which is a popular JavaScript library for building user interfaces. We used various React components such as forms, buttons, and images to create a clean and responsive user interface. We also used CSS to style the application and make it visually appealing.
 
 Overall, the front-end application makes it easy for users to upload and analyze brain scans using our brain tumor detection model. By providing a user-friendly interface, we hope to increase the accessibility and usefulness of our model to healthcare professionals and patients alike.
->>>>>>> 3603296 (commit)
+
+
